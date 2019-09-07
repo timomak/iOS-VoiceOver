@@ -1,6 +1,8 @@
 # VoiceOver Assisted iOS App
 > I just added VoiceOver to the label and two buttons that this app originally used.
 
+![](app.PNG)
+
 ## Code
 ```SWIFT
 // MARK: VoiceOver Code for Portal Dev Team
